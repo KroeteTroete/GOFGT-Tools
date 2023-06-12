@@ -1,5 +1,5 @@
 # GOFGT-Tools
-This repo inhabits all the tools i used to make the Galaxy On Fire Google Translate Mod
+This repo inhabits most of the tools i used to make the Galaxy On Fire Google Translate Mod
 
 <h3>GOF2 Google Translate Mod:</h3>
 https://www.moddb.com/mods/gof2-google-translated
