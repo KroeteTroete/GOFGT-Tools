@@ -1,0 +1,10 @@
+ID  voice           Notes                                   Characters
+1   cmu_us_slt      Female                                  Female Terran
+2   cmu_us_clb      Female                                  Carla
+3   cmu_us_jmk      Male                                    Keith, Male Terran
+4   cmu_us_bdl      Male, sounds dumb as hell               Gunant, Pirates, Khador
+5   cmu_us_awb      Male, sounds older, white noise         Mkkt Bkkt, Narrator, Erkkt
+6   cmu_us_ksp      Male, english with indian accent        Norris Bernard, Boyle, Baffour
+7   cmu_us_rms      Male, sounds older, "admiral"-like      Snocom, Pirates2, MT2
+8   us1_mbrola      Female, roboter-like                    Shipcomputer
+9   us3_mbrola      Male, roboter-like                      Kidnapper, Mido Escort

@@ -1,0 +1,1 @@
+This folder inhabits all the spreadsheets I created when making the mod, which have been created using the scripts included in this repo, as well as manually edited

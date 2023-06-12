@@ -1,0 +1,4 @@
+At one point i mixed up the purpose of my "naming" scripts, which were at first used to rename tts wavs.
+So don't get confused when other scripts ending with "naming" doesn't have as much to do with that
+
+-Kroete
