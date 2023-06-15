@@ -1,7 +1,7 @@
 # GOFGT-Tools
 This repo inhabits most of the tools i used to make the Galaxy On Fire Google Translate Mod.
 None of these files where made for publishing. I intended to post my working directory, so other modders
-can take a look at the methods I used. However I then decided to only post the scripts and spreadsheets and not any generated or vanilla sound files.
+can take a look at the methods I used. I then decided to only post the scripts and spreadsheets and not any generated or vanilla sound files.
 
 However, I'm thinking about turning a few scripts into fully fledged, publishable tools.
 
